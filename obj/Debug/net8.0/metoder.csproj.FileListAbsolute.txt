@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\metoder\bin\Debug\net8.0\metoder.exe
+C:\Users\Admin\Documents\GitHub\metoder\bin\Debug\net8.0\metoder.deps.json
+C:\Users\Admin\Documents\GitHub\metoder\bin\Debug\net8.0\metoder.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\metoder\bin\Debug\net8.0\metoder.dll
+C:\Users\Admin\Documents\GitHub\metoder\bin\Debug\net8.0\metoder.pdb
+C:\Users\Admin\Documents\GitHub\metoder\obj\Debug\net8.0\metoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\metoder\obj\Debug\net8.0\metoder.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\metoder\obj\Debug\net8.0\metoder.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\metoder\obj\Debug\net8.0\metoder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\metoder\obj\Debug\net8.0\metoder.dll
+C:\Users\Admin\Documents\GitHub\metoder\obj\Debug\net8.0\refint\metoder.dll
+C:\Users\Admin\Documents\GitHub\metoder\obj\Debug\net8.0\metoder.pdb
+C:\Users\Admin\Documents\GitHub\metoder\obj\Debug\net8.0\metoder.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\metoder\obj\Debug\net8.0\ref\metoder.dll
