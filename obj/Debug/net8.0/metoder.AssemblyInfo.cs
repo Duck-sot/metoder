@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("metoder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c368d7d951ca556c2d6a68cb68bbc14ad775b8d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("metoder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("metoder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

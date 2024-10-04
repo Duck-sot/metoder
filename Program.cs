@@ -14,6 +14,15 @@ double Omkrets(double r){
 }
 
 Main();*/
-public partial class Form1 : Form{
-    public Form1
+Main();
+
+void Main (){
+    float moon = 0.323445F ;
+    float sun = 2.233741F ;
+    float ultra = 1.237628F;
+    Console.WriteLine(omega(ultra,sun,moon));
+}
+float omega (float sun ,float moon ,float ultra ){
+    float omega = (sun + moon + ultra) / 2 ;
+    return omega;
 }
